@@ -1,0 +1,6 @@
+Êþº¾   4 
+      com/sushanth/gift/sweets/Sweet <init> ()V
+  	 
+   com/sushanth/gift/sweets/Kova setSweetness (D)V
+     	setWeight Code LineNumberTable LocalVariableTable this Lcom/sushanth/gift/sweets/Kova; (DD)V weight D 	sweetness 
+SourceFile 	Kova.java !               E     *· *¶ *¶ ±              	                       Y     *· *)¶ *'¶ ±              	                                  

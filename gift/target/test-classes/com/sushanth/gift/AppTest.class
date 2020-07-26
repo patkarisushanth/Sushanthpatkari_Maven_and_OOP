@@ -1,0 +1,10 @@
+Êþº¾   4 
+      junit/framework/TestCase <init> (Ljava/lang/String;)V  junit/framework/TestSuite 
+ com/sushanth/gift/AppTest
+     (Ljava/lang/Class;)V
+ 	    
+assertTrue (Z)V Code LineNumberTable LocalVariableTable this Lcom/sushanth/gift/AppTest; testName Ljava/lang/String; suite ()Ljunit/framework/Test; testApp ()V 
+SourceFile AppTest.java ! 	              >     *+· ±       
+                         	       "      
+» Y	· °                   3     ¸ ±       
+    $  %                  
